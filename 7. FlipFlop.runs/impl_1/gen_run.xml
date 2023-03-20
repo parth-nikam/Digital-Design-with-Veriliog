@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7k70tfbv676-1" LaunchTime="1677471023">
+  <File Type="BITSTR-BMM" Name="dFlipFlop_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="dFlipFlop_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="dFlipFlop_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="dFlipFlop_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="dFlipFlop.tcl"/>
+  <File Type="OPT-TIMING" Name="dFlipFlop_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="dFlipFlop_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="dFlipFlop_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="dFlipFlop_reports.tcl"/>
+  <File Type="OPT-DRC" Name="dFlipFlop_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="dFlipFlop.hwdef"/>
+  <File Type="PWROPT-DCP" Name="dFlipFlop_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="dFlipFlop_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="dFlipFlop_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="dFlipFlop_placed.dcp"/>
+  <File Type="PLACE-IO" Name="dFlipFlop_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="dFlipFlop_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="dFlipFlop_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="dFlipFlop_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="dFlipFlop_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="dFlipFlop_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="dFlipFlop_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="dFlipFlop.bgn"/>
+  <File Type="PLACE-TIMING" Name="dFlipFlop_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="dFlipFlop_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="dFlipFlop.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="dFlipFlop_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="dFlipFlop_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="dFlipFlop_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="dFlipFlop.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="dFlipFlop_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="dFlipFlop_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="dFlipFlop_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="dFlipFlop_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="dFlipFlop_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="dFlipFlop_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="dFlipFlop.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="dFlipFlop_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="dFlipFlop.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="dFlipFlop_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="dFlipFlop_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="dFlipFlop.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="dFlipFlop_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="dFlipFlop_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="dFlipFlop_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="dFlipFlop_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="dFlipFlop_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="dFlipFlop_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="dFlipFlop_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="dFlipFlop_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="dFlipFlop_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="dFlipFlop_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="dFlipFlop_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="dFlipFlop_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="dFlipFlop_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="dFlipFlop_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="dFlipFlop_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="dFlipFlop_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="dFlipFlop_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="dFlipFlop_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="dFlipFlop_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="dFlipFlop.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="dFlipFlop_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="dFlipFlop.rbt"/>
+  <File Type="BITSTR-NKY" Name="dFlipFlop.nky"/>
+  <File Type="BG-DRC" Name="dFlipFlop.drc"/>
+  <File Type="RDI-RDI" Name="dFlipFlop.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/dFlipFlop.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="dFlipFlop"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

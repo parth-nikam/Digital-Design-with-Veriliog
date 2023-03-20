@@ -1,0 +1,15 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.2 (win64) Build 2258646 Thu Jun 14 20:03:12 MDT 2018
+| Date         : Sun Feb 26 20:10:54 2023
+| Host         : Vlsi302-15 running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file dFlipFlop_bus_skew_routed.rpt -pb dFlipFlop_bus_skew_routed.pb -rpx dFlipFlop_bus_skew_routed.rpx
+| Design       : dFlipFlop
+| Device       : 7k70t-fbv676
+| Speed File   : -1  PRODUCTION 1.12 2017-02-17
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+
