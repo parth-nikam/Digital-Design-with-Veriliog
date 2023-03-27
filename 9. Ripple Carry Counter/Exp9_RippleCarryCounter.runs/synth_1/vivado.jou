@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Mar 26 21:18:31 2023
+# Process ID: 8644
+# Current directory: D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.runs/synth_1
+# Command line: vivado.exe -log rippleCarryCounterTestBench.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source rippleCarryCounterTestBench.tcl
+# Log file: D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.runs/synth_1/rippleCarryCounterTestBench.vds
+# Journal file: D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source rippleCarryCounterTestBench.tcl -notrace

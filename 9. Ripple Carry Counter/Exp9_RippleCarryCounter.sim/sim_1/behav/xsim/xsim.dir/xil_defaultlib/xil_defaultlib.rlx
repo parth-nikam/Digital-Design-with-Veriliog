@@ -1,0 +1,9 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.srcs/sources_1/new/DFlipFlop.v,1679888895,verilog,,D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.srcs/sources_1/new/TFlipFlop.v,,DFlipFlop,,,,,,,,
+D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.srcs/sources_1/new/TFlipFlop.v,1679888896,verilog,,D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.srcs/sources_1/new/rippleCarryCounter.v,,TFlipFlop,,,,,,,,
+D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.srcs/sources_1/new/rippleCarryCounter.v,1679888493,verilog,,D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.srcs/sources_1/new/rippleCarryCounterTestBench.v,,rippleCarryCounter,,,,,,,,
+D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.srcs/sources_1/new/rippleCarryCounterTestBench.v,1679888978,verilog,,,,rippleCarryCounterTestBench,,,,,,,,

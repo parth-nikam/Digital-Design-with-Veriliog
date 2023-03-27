@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg484-1" LaunchTime="1679890710">
+  <File Type="BITSTR-BMM" Name="rippleCarryCounterTestBench_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="rippleCarryCounterTestBench_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="rippleCarryCounterTestBench_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="rippleCarryCounterTestBench_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="rippleCarryCounterTestBench.tcl"/>
+  <File Type="OPT-TIMING" Name="rippleCarryCounterTestBench_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="rippleCarryCounterTestBench_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="rippleCarryCounterTestBench_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="rippleCarryCounterTestBench_reports.tcl"/>
+  <File Type="OPT-DRC" Name="rippleCarryCounterTestBench_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="rippleCarryCounterTestBench.hwdef"/>
+  <File Type="PWROPT-DCP" Name="rippleCarryCounterTestBench_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="rippleCarryCounterTestBench_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="rippleCarryCounterTestBench_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="rippleCarryCounterTestBench_placed.dcp"/>
+  <File Type="PLACE-IO" Name="rippleCarryCounterTestBench_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="rippleCarryCounterTestBench_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="rippleCarryCounterTestBench_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="rippleCarryCounterTestBench_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="rippleCarryCounterTestBench_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="rippleCarryCounterTestBench_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="rippleCarryCounterTestBench_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="rippleCarryCounterTestBench.bgn"/>
+  <File Type="PLACE-TIMING" Name="rippleCarryCounterTestBench_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="rippleCarryCounterTestBench_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="rippleCarryCounterTestBench.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="rippleCarryCounterTestBench_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="rippleCarryCounterTestBench_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="rippleCarryCounterTestBench_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="rippleCarryCounterTestBench.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="rippleCarryCounterTestBench_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="rippleCarryCounterTestBench_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="rippleCarryCounterTestBench_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="rippleCarryCounterTestBench_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="rippleCarryCounterTestBench_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="rippleCarryCounterTestBench_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="rippleCarryCounterTestBench.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="rippleCarryCounterTestBench_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="rippleCarryCounterTestBench.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="rippleCarryCounterTestBench_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="rippleCarryCounterTestBench_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="rippleCarryCounterTestBench.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="rippleCarryCounterTestBench_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="rippleCarryCounterTestBench_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="rippleCarryCounterTestBench_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="rippleCarryCounterTestBench_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="rippleCarryCounterTestBench_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="rippleCarryCounterTestBench_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="rippleCarryCounterTestBench_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="rippleCarryCounterTestBench_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="rippleCarryCounterTestBench_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="rippleCarryCounterTestBench_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="rippleCarryCounterTestBench_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="rippleCarryCounterTestBench_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="rippleCarryCounterTestBench_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="rippleCarryCounterTestBench_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="rippleCarryCounterTestBench_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="rippleCarryCounterTestBench_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="rippleCarryCounterTestBench_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="rippleCarryCounterTestBench_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="rippleCarryCounterTestBench_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="rippleCarryCounterTestBench.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="rippleCarryCounterTestBench_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="rippleCarryCounterTestBench.rbt"/>
+  <File Type="BITSTR-NKY" Name="rippleCarryCounterTestBench.nky"/>
+  <File Type="BG-DRC" Name="rippleCarryCounterTestBench.drc"/>
+  <File Type="RDI-RDI" Name="rippleCarryCounterTestBench.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/DFlipFlop.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/TFlipFlop.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/rippleCarryCounter.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/rippleCarryCounterTestBench.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="rippleCarryCounterTestBench"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

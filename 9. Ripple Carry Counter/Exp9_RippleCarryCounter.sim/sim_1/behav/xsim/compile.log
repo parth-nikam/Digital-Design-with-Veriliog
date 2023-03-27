@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.srcs/sources_1/new/DFlipFlop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DFlipFlop
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.srcs/sources_1/new/TFlipFlop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TFlipFlop
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.srcs/sources_1/new/rippleCarryCounter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rippleCarryCounter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.srcs/sources_1/new/rippleCarryCounterTestBench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rippleCarryCounterTestBench
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Parth/Exp9_RippleCarryCounter/Exp9_RippleCarryCounter.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
