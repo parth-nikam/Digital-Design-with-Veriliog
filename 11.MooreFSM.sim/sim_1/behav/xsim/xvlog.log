@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Parth/11.MooreFSM/11.MooreFSM.srcs/sources_1/new/Moore1011FSM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module moore1010
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Parth/11.MooreFSM/11.MooreFSM.srcs/sources_1/new/Moore1011TestBench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
